@@ -1,8 +1,11 @@
 {
-  "name": "shadow-dom",
+  "name": "ionic-4-custom-components",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "https://ionicthemes.com",
+  "contributors": [
+    "Agustín <agustin@startapplabs.com>"
+  ],
+  "homepage": "https://ionicthemes.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -24,6 +27,7 @@
     "@ionic-native/splash-screen": "5.0.0-beta.15",
     "@ionic-native/status-bar": "5.0.0-beta.15",
     "@ionic/angular": "4.0.0-beta.5",
+    "c-coffee-icon": "0.0.2",
     "core-js": "^2.5.3",
     "rxjs": "6.2.2",
     "zone.js": "^0.8.26"
@@ -55,5 +59,5 @@
     "tslint": "~5.11.0",
     "typescript": "~2.9.2"
   },
-  "description": "An Ionic project"
+  "description": "An Ionic project showcasing Angular custom components and Stencil custom web components"
 }
