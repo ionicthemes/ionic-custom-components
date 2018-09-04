@@ -45,8 +45,4 @@ export class PreloadImageComponent implements OnChanges {
       this._renderer.removeClass(this._elementRef.nativeElement, 'img-loaded');
     }
   }
-
-  _test() {
-    debugger;
-  }
 }
