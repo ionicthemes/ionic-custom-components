@@ -1,6 +1,6 @@
 ## An Ionic 4 project showcasing Angular custom components and Stencil custom web components
 
-Tutorial coming soon to https://ionicthemes.com
+Complete Ionic 4 Tutorial in https://ionicthemes.com/tutorials/about/ionic-4-tutorial-mastering-web-components-in-ionic-4
 
 ### Web Components? Shadow DOM? CSS 4 Variables? Understanding the new components architecture in Ionic 4
 In our previous post [Ionic 4 vs Ionic 3 — What you need to know about Ionic 4](https://ionicthemes.com/tutorials/about/ionic-4-vs-ionic-3) we surfaced the main differences between Ionic 3 and Ionic 4.
